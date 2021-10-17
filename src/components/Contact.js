@@ -168,7 +168,7 @@ const Contact = () => {
         <AddressContainer>
           <AddressItem>
             <Icon src={Map} />
-            <Text>123 Park Avenue St., New York, USA</Text>
+            <Text>Moi Avenue St., Nairobi, KEN</Text>
           </AddressItem>
           <AddressItem>
             <Icon src={Phone} />
@@ -177,8 +177,8 @@ const Contact = () => {
           </AddressItem>
           <AddressItem>
             <Icon src={Send} />
-            <Text>contact@lama.dev</Text>
-            <Text>sales@lama.dev</Text>
+            <Text>contact@Jay.dev</Text>
+            <Text>sales@Jay.dev</Text>
           </AddressItem>
         </AddressContainer>
       </Wrapper>
